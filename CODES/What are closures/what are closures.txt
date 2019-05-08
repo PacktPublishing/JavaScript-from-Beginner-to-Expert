@@ -1,0 +1,35 @@
+    var clickMe = document.getElementById("clickMe");
+    
+    clickMe.onclick = (function(e)
+    {
+        var counter = 0;
+        
+        function closure(e)
+        {
+            counter++;
+            if (counter === 2)            
+            {
+                counter = 0;
+                alert("yeaaa");
+            }
+        };
+        return closure;
+    })();
+	
+	
+	It's not about what closures are. It's about what can you achieve using closures and that's why it seems so complex and hard to understand. If you want to understand and teach anybody why closures are worth using you have to give that person a reason to believe it's worth something so his brain accepts the fact that it's useful.
+
+The simplest closure looks like that:
+
+    function sample()
+    {
+       var x = 5;
+       function closure()
+       {
+          return x;
+       }
+    }
+
+Which means that the closure is a function that does something on a higher scoper variables. As the name suggests it is closing this variable values inside this function INDEFINETLY.
+
+What do I mean by indefinetly?

@@ -1,0 +1,27 @@
+Czy gdy uczysz siê czegoœ zadajesz sobie non stop pytania, dlaczego coœ istnieje i dlaczego to tak dzia³a a nie inaczej, a niestety ci co to t³umacz¹ pomijaj¹ w³aœnie ten aspekt przez co nie chce Ci siê dalej uczyæ? Jeœli tak to trafi³eœ w idealne miejsce, bo po tym kursie bêdziesz zna³ Javascript w taki sposób, ¿e wszystko bêdzie dla Ciebie zrozumia³e!
+
+Hello my friend,
+
+When you are learning something new do you ask yourself many questions like: Why do we need events? why do we need loops? What are they? How do we use them? and so on and so on?
+If yes then you are in the right place because I will answer you all your questions looking like that. I will explain you in this course everything from basics to advanced components of the JavaScript so you can become the Expert.
+
+This course is divided in 23 sections and it consists of 85 lessons. It has over 12 hours of great content.
+
+You also gonna find here lots of quizzes and exercises. I will explain you syntax of the JavaScript and we will train this syntax during practical examples.
+
+JavaScript is giving your website additional functionalities that can be executed on the user computer without re-connecting to the server. This allows you to do things that you cannot do with only HTML. Because of it the user interface becomes more friendly and more inter-active.
+
+By inter-active elements I mean things like:
+
+tooltips
+animated image sliders
+forms with pre-validation
+slided panels
+galleries with thumbnails
+and many more
+
+...............
+.............
+
+
+I give you 100% satisfaction which means that if you do not like my course you can request a refund up to 30 days time without any questions ask.

@@ -1,0 +1,22 @@
+getDate()	- day of Month
+getMonth()	- month (count from: 0 - January, 1 - February etc.)
+getFullYear()	- returns full year (for instance: 1999 lub 2000)
+getHours()	- hours
+getMinutes()	- minutes 
+getSeconds()	- seconds 
+getMilliseconds()- miliseconds 
+
+getTime()	- actual time in ms counting from: 00:00 1 January 1970 year
+getDay()	- day of the week (0 for Sunday!!, 1 for Monday, 2 for Tuesday...)
+
+toLocaleTimeString() - it returns more readable time - it depends on web-browser/country etc.
+toLocaleDateString - it returns more readable date
+toLocaleString - like above but both at once
+
+setDate - it sets date to... for example: today.setDate(today.getDay() + 3);
+setTime - it sets time in ms to... 
+setHours - it...
+
+
+great way of adding 1 day: var tomorrow = new Date(today.getTime() + 1000*60*60*24); (adds 1 day)
+
