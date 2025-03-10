@@ -1,0 +1,12 @@
+React Hooks:
+https://github.com/streamich/react-use
+
+CheatSheet React TypeScript:
+https://react-typescript-cheatsheet.netlify.app/docs/basic/setup/
+
+Fake Filler:
+https://chromewebstore.google.com/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo?pli=1
+
+React Developer Tools:
+https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
+

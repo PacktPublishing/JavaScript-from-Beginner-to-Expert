@@ -1,0 +1,5 @@
+Online Favicon Generator:
+https://realfavicongenerator.net/
+
+pwa-asset-generator:
+https://www.npmjs.com/package/pwa-asset-generator

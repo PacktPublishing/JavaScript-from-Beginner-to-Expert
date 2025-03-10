@@ -1,0 +1,6 @@
+Link to JDK:
+https://adoptium.net/temurin/releases/?os=windows&package=jdk
+
+Link to Netbeans Installer:
+https://netbeans.apache.org/front/main/download/nb24/
+

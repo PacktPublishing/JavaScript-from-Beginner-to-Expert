@@ -1,0 +1,41 @@
+Useful shortcuts ready to print!
+
+CTRL + S (save) - save file
+
+CTRL + C (copy) - copy
+
+CTRL + V - paste
+
+CTRL + X - cut
+
+CTRL + Z - undo the action
+
+CTRL + Y - redo the action
+
+CTRL + F (find) - looking in file
+
+CTRL + A (all) - selecting all files
+
+TAB - indent
+
+SHIFT + TAB - back indent
+
+END / HOME - jump to the end / beginning of line
+
+SHIFT + END / SHIFT + HOME - selecting line to the end / to the beginning from the caret place
+
+SHIFT + ARROWS up / down - selecting/deselecting full lines
+
+SHIFT + ARROWS left / right - selecting a letter to the left / right
+
+CTRL + SHIFT + arrow keys left/right - selecting full word left/right
+
+CTRL + SHIFT + arrows keys down/up - copying full line down
+
+CTRL + HOME - jumping to the beginning of file
+
+CTRL + END - jumping to the end of file
+
+CTRL + SHIFT + HOME - selecting text from caret to the beginning of file
+
+CTRL + SHIFT + END - selecting text from caret to the end of file

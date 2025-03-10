@@ -1,0 +1,2 @@
+css properties for js:
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#index
